@@ -1,2 +1,2 @@
-# tableau-extensions-tutorial-part-two
-Tableau Extensions API Tutorial Part 2
+# Tableau Extensions API Tutorial Part Two
+Tableau Extensions API Tutorial Part Two
